@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Stanley</h1>
 <h3 align="center">I'm an aspiring developer and problem solver, always exploring new technologies and turning ideas into code. As a CS student and full-stack enthusiast, I'm passionate about learning, building scalable solutions, and sharing projects with the community. Feel free to explore my repositories and reach out if you'd like to collaborate!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stanleylicet&theme=dark&label=Profile%20views&color=0e75b6&style=flat" alt="stanleylicet" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=stanleylicet&label=Profile%20views&color=ffffff&style=flat" alt="stanleylicet" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stanleylicet&theme=dark&" alt="stanleylicet" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stanleylicet" alt="stanleylicet" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,6 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stanleylicet&show_icons=true&locale=en&layout=compact" alt="stanleylicet" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stanleylicet&show_icons=true&locale=en" alt="stanleylicet" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stanleylicet&show_icons=true&theme=tokyonight&locale=en" alt="stanleylicet" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stanleylicet&" alt="stanleylicet" /></p>
